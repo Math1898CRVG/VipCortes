@@ -1060,7 +1060,7 @@ z-index: 2;}
             }
 
                 @media (max-width: 430px){
-                    .bodyhome{height: 2250px;}
+                    .bodyhome{height: 1800px;}
                             .menu-icon img{height: 40px;
                                 width: 40px;}
                             .logo{height: 60px;
@@ -1409,6 +1409,7 @@ z-index: 2;}
                 left: 80%;}
                         }
                 
+
 
 
 
