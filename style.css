@@ -1207,21 +1207,21 @@ z-index: 2;}
                         left:6%;
                         z-index: 1;
                         width:370px;
-                        height: 235px;
+                        height: 180px;
                 object-fit: cover;}
                     
                     .corte{position:absolute;
                         top: 151%;
                         left:6%;
                         width:370px;
-                        height: 235px;
+                        height: 180px;
                         object-fit: cover;}
                     
                     .design{position:absolute;
                         top: 181%;
                         left:6%;
                         width:370px;
-                        height: 235px;
+                        height: 180px;
                         object-fit: cover;}
                     
                     .combo,.corte,.design{border: solid 4px;
@@ -1409,6 +1409,7 @@ z-index: 2;}
                 left: 80%;}
                         }
                 
+
 
 
 
