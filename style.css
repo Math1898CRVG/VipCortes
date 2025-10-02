@@ -1184,7 +1184,7 @@ z-index: 2;}
                 top: 91%;
                 left: 18%;
                 color: white;
-                width: 130px;
+                width: 150px;
             z-index: 2;}
             
             .line2{height: 1px;
@@ -1202,26 +1202,26 @@ z-index: 2;}
                     z-index: 2;
                     background-color: white;}
             
-                    .combo{position:absolute;
+                   .combo{position:absolute;
                         top: 121%;
                         left:6%;
                         z-index: 1;
                         width:370px;
-                        height: 235px;
+                        height: 200px;
                 object-fit: cover;}
                     
                     .corte{position:absolute;
                         top: 151%;
                         left:6%;
                         width:370px;
-                        height: 235px;
+                        height: 200px;
                         object-fit: cover;}
                     
                     .design{position:absolute;
                         top: 181%;
                         left:6%;
                         width:370px;
-                        height: 235px;
+                        height: 200px;
                         object-fit: cover;}
                     
                     .combo,.corte,.design{border: solid 4px;
@@ -1265,7 +1265,7 @@ z-index: 2;}
                 .texto3{position: absolute;
                     top:189%;
                 left:9%;
-                width: 240px;
+                width: 270px;
                 cursor: default;}
             
                 .titulo1{color: white;
@@ -1409,4 +1409,5 @@ z-index: 2;}
                 left: 80%;}
                         }
                 
+
 
